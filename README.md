@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prasanthcp ✨
-- 👀 I’m interested in coding & chanting
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on Java SE/EE based projects
 - 📫 How to reach me : 9491680133
